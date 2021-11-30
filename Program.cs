@@ -11,9 +11,10 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello from Program.cs\n");
 
             Class1.ShowOutput();
+            Class2.ShowOutput();
         }
 
 

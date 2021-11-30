@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public static void ShowOutput()
         {
-            Console.WriteLine("Hello from Class1.cs");
+            Console.WriteLine("Hello from Class1.cs\n");
         }
     }
 }
